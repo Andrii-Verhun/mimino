@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AlexKabaiev.github.io/project-13",
+  "homepage": "https://Andrii-Verhun.github.io/mimino",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-13/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexKabaiev/project-13.git"
+    "url": "git+https://github.com/Andrii-Verhun/mimino.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexKabaiev/project-13/issues"
+    "url": "https://github.com/Andrii-Verhun/mimino/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
